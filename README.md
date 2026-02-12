@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Preview%202.jpg" width="900" alt="Preview">
+</p>
 
 
 <h2>📌 Resumen</h2>
