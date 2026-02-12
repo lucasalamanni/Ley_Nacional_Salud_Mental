@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="Preview.png" width="900" alt="Preview">
-</p>
 
-<h1 align="center">🧠 Ley Nacional de Salud Mental | Análisis Exploratorio</h1>
-
-<hr>
 
 <h2>📌 Resumen</h2>
 
